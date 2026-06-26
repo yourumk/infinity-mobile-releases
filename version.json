@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
-  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.1.0/app-release.apk",
-  "changelog": "Fix crash CursorWindow sur la page Historique\nSécurité stock anti-dépassement sur les ventes\nMise à jour GPS des dépôts depuis le mobile\nNouveau système de permissions RBAC amélioré\nOptimisation des appels réseau"
+  "version": "2.2.0",
+  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.2.0/app-release.apk",
+  "changelog": "Nouveau nom : Infinity ERP\nNouveau logo\nFix crash CursorWindow sur la page Historique\nSécurité stock anti-dépassement sur les ventes\nMise à jour GPS des dépôts depuis le mobile\nNouveau système de permissions RBAC amélioré"
 }
