@@ -1,5 +1,5 @@
 {
-  "version": "2.2.1+9",
-  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.2.1/app-release.apk",
-  "changelog": "- Suppression des boutons +5 et +10.\n- Refonte du système de quantité (mode clavier).\n- Correction de la mise à jour des stocks en direct sur le POS.\n- Optimisation du mode tournée et nettoyage du panier."
+  "version": "2.2.2+10",
+  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.2.2/app-release.apk",
+  "changelog": "- Sécurité RBAC renforcée (détection de changement de mot de passe).\n- Correction de la déconnexion forcée (les ventes hors-ligne ne sont plus perdues).\n- Simplification du système de deltas de stock.\n- Renforcement logistique : ventes sans dépôt bloquées.\n- Nettoyage des pré-commandes (anti-doublons).\n- Optimisation des performances serveur."
 }
