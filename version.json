@@ -1,5 +1,5 @@
 {
-  "version": "2.2.0",
-  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.2.0/app-release.apk",
-  "changelog": "Nouveau nom : Infinity ERP\nNouveau logo\nFix crash CursorWindow sur la page Historique\nSécurité stock anti-dépassement sur les ventes\nMise à jour GPS des dépôts depuis le mobile\nNouveau système de permissions RBAC amélioré"
+  "version": "2.2.1+9",
+  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.2.1/app-release.apk",
+  "changelog": "- Suppression des boutons +5 et +10.\n- Refonte du système de quantité (mode clavier).\n- Correction de la mise à jour des stocks en direct sur le POS.\n- Optimisation du mode tournée et nettoyage du panier."
 }
