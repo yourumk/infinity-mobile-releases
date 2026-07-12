@@ -1,5 +1,5 @@
 {
-  "version": "2.2.2+10",
-  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.2.2/app-release.apk",
-  "changelog": "- Sécurité RBAC renforcée (détection de changement de mot de passe).\n- Correction de la déconnexion forcée (les ventes hors-ligne ne sont plus perdues).\n- Simplification du système de deltas de stock.\n- Renforcement logistique : ventes sans dépôt bloquées.\n- Nettoyage des pré-commandes (anti-doublons).\n- Optimisation des performances serveur."
+  "version": "2.4.0+12",
+  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.4.0/app-release.apk",
+  "changelog": "- Synchronisation stock en temps réel (Radar toutes les 3s).\n- Déduction visuelle instantanée du stock à la vente.\n- Bac à sable chauffeur absolu (fourgon uniquement).\n- Tournées créées directement sur le Cloud.\n- Bouclier anti-résurrection (transferts et check-ins).\n- Fix du bug minuit (CA qui retombait à 0).\n- Fix stock -2 (double déduction éliminée).\n- Solde client/fournisseur fiable à 100%.\n- Anti-clignotement historique (deep compare chirurgical).\n- Recalcul automatique du montant payé à l'édition."
 }
