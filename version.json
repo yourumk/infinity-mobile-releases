@@ -1,5 +1,5 @@
 {
-  "version": "2.4.0+12",
-  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.4.0/app-release.apk",
-  "changelog": "- Synchronisation stock en temps réel (Radar toutes les 3s).\n- Déduction visuelle instantanée du stock à la vente.\n- Bac à sable chauffeur absolu (fourgon uniquement).\n- Tournées créées directement sur le Cloud.\n- Bouclier anti-résurrection (transferts et check-ins).\n- Fix du bug minuit (CA qui retombait à 0).\n- Fix stock -2 (double déduction éliminée).\n- Solde client/fournisseur fiable à 100%.\n- Anti-clignotement historique (deep compare chirurgical).\n- Recalcul automatique du montant payé à l'édition."
+  "version": "2.5.0+13",
+  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.5.0/app-release.apk",
+  "changelog": "- Coffre-fort ventes : les ventes hors-ligne ne sont plus jamais effacées (même en cas de déconnexion).\n- Fix stock 0 : affichage correct du stock global quand 'Tous les dépôts' est sélectionné.\n- Sélection automatique du bon dépôt (ne sélectionne plus un fourgon par défaut).\n- Sécurité file d'attente : insertion directe en SQLite, suppression ciblée (zéro perte).\n- Vérificateur tournée : fermeture forcée sans effacer les ventes en transit.\n- Historique et carte flotte améliorés.\n- Correctifs de stabilité générale."
 }
