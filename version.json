@@ -1,5 +1,5 @@
 {
-  "version": "2.5.0+13",
-  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.5.0/app-release.apk",
-  "changelog": "- Coffre-fort ventes : les ventes hors-ligne ne sont plus jamais effacées (même en cas de déconnexion).\n- Fix stock 0 : affichage correct du stock global quand 'Tous les dépôts' est sélectionné.\n- Sélection automatique du bon dépôt (ne sélectionne plus un fourgon par défaut).\n- Sécurité file d'attente : insertion directe en SQLite, suppression ciblée (zéro perte).\n- Vérificateur tournée : fermeture forcée sans effacer les ventes en transit.\n- Historique et carte flotte améliorés.\n- Correctifs de stabilité générale."
+  "version": "2.6.0+14",
+  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.6.0/app-release.apk",
+  "changelog": "- Radar GPS en temps réel : les fourgons et chauffeurs se mettent à jour toutes les 30 secondes.\n- Nouveau moteur de carte : fusion visuelle des marqueurs superposés ('Carré en verre' vert).\n- Numéros d'étapes sur les arrêts de tournée pour un meilleur suivi d'itinéraire.\n- Itinéraire Mapbox avec flèches directionnelles pour guider le chauffeur.\n- Bouton 'Ouvrir dossier client' directement depuis la popup de la carte.\n- Popups carte redessinées avec effet verre trempé.\n- GPS heartbeat accéléré (30s) pour une localisation plus précise.\n- Corrections de stabilité générale."
 }
