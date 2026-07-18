@@ -1,5 +1,5 @@
 {
-  "version": "2.6.0+14",
-  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.6.0/app-release.apk",
-  "changelog": "- Radar GPS en temps réel : les fourgons et chauffeurs se mettent à jour toutes les 30 secondes.\n- Nouveau moteur de carte : fusion visuelle des marqueurs superposés ('Carré en verre' vert).\n- Numéros d'étapes sur les arrêts de tournée pour un meilleur suivi d'itinéraire.\n- Itinéraire Mapbox avec flèches directionnelles pour guider le chauffeur.\n- Bouton 'Ouvrir dossier client' directement depuis la popup de la carte.\n- Popups carte redessinées avec effet verre trempé.\n- GPS heartbeat accéléré (30s) pour une localisation plus précise.\n- Corrections de stabilité générale."
+  "version": "2.7.0+15",
+  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.7.0/app-release.apk",
+  "changelog": "- Sélection automatique du bon dépôt au démarrage (ne sélectionne plus un fourgon par défaut).\n- Stock filtré : les produits supprimés n'apparaissent plus dans le stock.\n- Fix boucle infinie : synchronisation du stock stable même si un produit est supprimé entre-temps.\n- Suppression de l'option 'Vue Globale' du sélecteur de dépôt (un seul dépôt actif à la fois).\n- Corrections de stabilité générale."
 }
