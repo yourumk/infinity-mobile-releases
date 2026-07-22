@@ -1,5 +1,6 @@
 {
-  "version": "2.7.0+15",
-  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.7.0/app-release.apk",
-  "changelog": "- Sélection automatique du bon dépôt au démarrage (ne sélectionne plus un fourgon par défaut).\n- Stock filtré : les produits supprimés n'apparaissent plus dans le stock.\n- Fix boucle infinie : synchronisation du stock stable même si un produit est supprimé entre-temps.\n- Suppression de l'option 'Vue Globale' du sélecteur de dépôt (un seul dépôt actif à la fois).\n- Corrections de stabilité générale."
+    "version": "2.8.0",
+    "build_number": 16,
+    "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.8.0/app-release.apk",
+    "changelog": "- GPS Map Picker : Placez un client ou fournisseur directement sur la carte\n- Cache offline : Historique ventes, achats et précommandes disponibles sans réseau\n- Sélecteur frais : La liste clients/fournisseurs se rafraîchit à chaque ouverture du panier\n- Bouton ajout rapide client/fournisseur unifié (Ventes, Achats, Précommandes)\n- Fix carte Mapbox : Styles dark/light correctement appliqués"
 }
