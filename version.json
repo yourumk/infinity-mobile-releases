@@ -1,6 +1,5 @@
 {
-    "version": "2.8.1",
-    "build_number": 17,
-    "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.8.1/app-release.apk",
-    "changelog": "- Popup de sélection de dépôt obligatoire à la connexion\n- Refonte UI de la pilule de sélection de dépôt sur le Dashboard\n- Correctifs internes mineurs"
+  "version": "2.8.2+18",
+  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v2.8.2/app-release.apk",
+  "changelog": "- Sélecteur de dépôt obligatoire au démarrage\n- Nouveau design du sélecteur de dépôt sur le Dashboard\n- Correctifs et améliorations générales"
 }
