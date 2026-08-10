@@ -1,5 +1,5 @@
 {
-  "version": "3.0.0+21",
-  " url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v3.0.0/app-release.apk",
-  "changelog": "- Mise à jour vers 3.0.0"
+  "version": "3.0.1+22",
+  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v3.0.1/app-release.apk",
+  "changelog": "- Correction du bug 404 empêchant l'ouverture de l'application\n- Améliorations et corrections de bugs"
 }
