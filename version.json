@@ -1,5 +1,5 @@
 {
-  "version": "3.2.0+26",
-  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v3.2.0/app-release.apk",
-  "changelog": "- Corrections de bugs et améliorations de performance"
+  "version": "3.2.1+27",
+  "url": "https://github.com/yourumk/infinity-mobile-releases/releases/download/v3.2.1/app-release.apk",
+  "changelog": "- Gestion et sélection des numéros de série / IMEI (S/N)\n- Amélioration de la fluidité et synchronisation des ventes et pré-commandes\n- Corrections de bugs et optimisations"
 }
